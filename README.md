@@ -1,1 +1,1 @@
-# python_scraping
+# Python scraping for many websites.
